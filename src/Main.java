@@ -89,7 +89,7 @@ int flag = 0;
         }catch(Throwable a)
         {
             System.out.println(a.getMessage());
-            JOptionPane.showMessageDialog(frame, "Something went wrong");
+            JOptionPane.showMessageDialog(frame, "Something wenrong");
         }
 
     }
